@@ -1,0 +1,95 @@
+{
+  "users": [
+    {
+      "user": "admin",
+      "email": "zapataval2304@gmail.com",
+      "name": "Jaime Zapata",
+      "password": "1234",
+      "phone": "3246720301",
+      "id": "0054"
+    },
+    {
+      "id": "163a",
+      "user": "super-admin",
+      "password": 432323,
+      "name": "Ana Cano",
+      "email": "correo@correo.com",
+      "phone": "3152001282"
+    },
+    {
+      "id": "4444",
+      "user": "jzapval",
+      "password": 23452345,
+      "name": "Jaime Zapata",
+      "email": "correo@correo.com",
+      "phone": "3246720301"
+    },
+    {
+      "id": "7142",
+      "user": "jaimezzapata",
+      "email": "zapataval2304@gmail.com",
+      "name": "Jaime Zapata",
+      "password": "34523425",
+      "phone": "3246720301"
+    },
+    {
+      "id": "5024",
+      "user": "lalu",
+      "email": "lalu@gmail.com",
+      "name": "Luisa Cano",
+      "password": "123456",
+      "phone": "1235234"
+    },
+    {
+      "id": "b1a92946-fb64-4be3-acfb-b6dad27cb2af",
+      "user": "andre",
+      "email": "otrocorreo@gmail.com",
+      "name": "Andrea Perez",
+      "password": "1232314",
+      "phone": "43524"
+    }
+  ],
+  "vegetarians": [
+    {
+      "nombre": "Pastas al Pesto Rojo",
+      "descripcion": "Fetuccini largo con pesto rojo",
+      "tiempo": "1 hora",
+      "dificultad": "Media",
+      "img": "img",
+      "id": "155d"
+    },
+    {
+      "nombre": "Pastas al Pesto Rojo Clásico",
+      "descripcion": "Fetuccini largo con pesto rojo de tomates secos, albahaca y piñones",
+      "tiempo": "45 minutos",
+      "dificultad": "Fácil",
+      "img": "https://example.com/pasta-pesto-rojo-clasico.jpg",
+      "id": "155d-1"
+    },
+    {
+      "nombre": "Pastas al Pesto Rojo con Espinacas",
+      "descripcion": "Fettuccini largo con pesto rojo y espinacas frescas, salteado con ajo",
+      "tiempo": "50 minutos",
+      "dificultad": "Media",
+      "img": "https://example.com/pasta-pesto-rojo-espinacas.jpg",
+      "id": "155d-2"
+    },
+    {
+      "nombre": "Pastas al Pesto Rojo con Almendras",
+      "descripcion": "Fetuccini largo con pesto rojo a base de almendras, con un sabor más suave y delicado",
+      "tiempo": "45 minutos",
+      "dificultad": "Fácil",
+      "img": "https://example.com/pasta-pesto-rojo-almendras.jpg",
+      "id": "155d-5"
+    },
+    {
+      "nombre": "Pastas al Pesto Rojo con Pimientos Asados",
+      "descripcion": "Fetuccini largo con pesto rojo y pimientos asados, para un toque ahumado",
+      "tiempo": "60 minutos",
+      "dificultad": "Media",
+      "img": "https://example.com/pasta-pesto-rojo-pimientos.jpg",
+      "id": "155d-6"
+    }
+  ],
+  "no-vegetarians": []
+}
